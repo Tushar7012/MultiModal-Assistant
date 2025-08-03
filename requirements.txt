@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+requests
+pyttsx3
+openai-whisper
+moviepy
+ffmpeg-python
+python-multipart
+pydantic
+jinja2
+streamlit
+-e .
